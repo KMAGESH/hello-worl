@@ -3,3 +3,5 @@ Hello this is my first GIT file.
 This is my second change to GIT file.
 
 This file is modified now.
+
+This line is modified through the GIT GUI.
